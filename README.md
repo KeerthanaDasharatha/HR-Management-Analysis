@@ -3,7 +3,8 @@
 This project focuses on analyzing a human resource dataset to uncover insights into employee demographics, salary distribution, hiring trends, performance, satisfaction, and engagement levels. By exploring key workforce indicators such as tenure, recruitment effectiveness, and termination patterns, the analysis supports better decision-making in human capital management. The findings help identify areas of improvement within departments, evaluate hiring strategies, and enhance employee experience and retention across the organization.
 
 ## Dataset Source – Human Resource Dataset
-The dataset was sourced from Kaggle (http://www.kaggle.com/),
+The dataset was sourced from Kaggle 
+
 Source Link:https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
 
 ## Dataset Columns
@@ -91,6 +92,10 @@ Termination trends and causes
 Citizen status impact on salary and satisfaction
 
 Departmental ranking based on engagement
+
+## Power-BI Dashboard:
+![Screenshot (34)](https://github.com/user-attachments/assets/ccfc5d1f-e374-46b1-9e98-9eefcea9f5dd)
+
 
 ## Conclusion:
 Data analysis reveals clear patterns in employee tenure and engagement across departments, with longer tenures correlating to higher satisfaction and lower termination rates.
