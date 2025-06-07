@@ -1,0 +1,105 @@
+﻿EmpID,Employee_Name,Salary,Position,State,Date_of_Birth,Gender,Marital_Status,Citizen_Status,Hireing_Date,Termination_Date,Employment_Status,Department,RecruitmentSource,Performance_Score,Engagement_Survey,Emp_Satisfaction
+10084,Ait Sidi Karthikeyan,104437,Sr. DBA,MA,05-05-1975 00:00,M,Married,US Citizen,30-03-2015 00:00,16-06-2016 00:00,Voluntarily Terminated,IT/IS,Indeed,Fully Meets,4.96,3
+10196,Akinkuolie Sarah,64955,Production Technician II,MA,19-09-1988 00:00,F,Married,US Citizen,05-07-2011 00:00,24-09-2012 00:00,Voluntarily Terminated,Production,LinkedIn,Fully Meets,3.02,3
+10069,Anderson Carol,50825,Production Technician I,MA,08-09-1989 00:00,F,Divorced,US Citizen,11-07-2011 00:00,06-09-2016 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,5,4
+10252,Baczenski Rachael,54670,Production Technician I,MA,12-01-1974 00:00,F,Married,US Citizen,10-01-2011 00:00,12-01-2017 00:00,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4.2,4
+10242,Barbara Thomas,47211,Production Technician I,MA,21-02-1974 00:00,M,Married,US Citizen,02-04-2012 00:00,19-09-2016 00:00,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4.2,3
+10066,Barton Nader,52505,Production Technician I,MA,15-07-1977 00:00,M,Divorced,US Citizen,24-09-2012 00:00,06-04-2017 00:00,Voluntarily Terminated,Production,On-line Web application,Fully Meets,5,5
+10061,Bates Norman,57834,Production Technician I,MA,18-10-1981 00:00,M,Single,US Citizen,21-02-2011 00:00,04-08-2017 00:00,Terminated for Cause,Production,Google Search,Fully Meets,5,4
+10245,Becker Renee,110000,Database Administrator,MA,04-04-1986 00:00,F,Single,US Citizen,07-07-2014 00:00,12-09-2015 00:00,Terminated for Cause,IT/IS,Google Search,Fully Meets,4.5,4
+10267,Bondwell Betsy,57815,Production Technician II,MA,16-01-1967 00:00,F,Single,US Citizen,10-01-2011 00:00,04-04-2014 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,4.8,5
+10199,Booth Frank,103613,Enterprise Architect,CT,30-07-1964 00:00,M,Single,US Citizen,17-02-2014 00:00,19-02-2016 00:00,Terminated for Cause,IT/IS,LinkedIn,Fully Meets,3.5,5
+10175,Bozzi Charles,74312,Production Manager,MA,10-03-1970 00:00,M,Single,US Citizen,30-09-2013 00:00,07-08-2014 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,3.39,3
+10177,Brill Donna,53492,Production Technician I,MA,24-08-1990 00:00,F,Married,US Citizen,02-04-2012 00:00,15-06-2013 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,3.35,4
+10188,Bunbury Jessica,74326,Area Sales Manager,VA,01-06-1964 00:00,F,Married,Eligible NonCitizen,15-08-2011 00:00,02-08-2014 00:00,Voluntarily Terminated,Sales,Google Search,Fully Meets,3.14,5
+10240,Chivukula Enola,64786,Production Technician I,MA,27-08-1983 00:00,F,Single,US Citizen,27-06-2011 00:00,15-11-2015 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,4.3,4
+10275,Cloninger Jennifer,64066,Production Technician II,MA,31-08-1981 00:00,F,Married,US Citizen,16-05-2011 00:00,07-01-2013 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,4.2,5
+10269,Close Phil,59369,Production Technician II,MA,25-11-1978 00:00,M,Married,US Citizen,30-08-2010 00:00,26-09-2011 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,4.2,4
+10292,Cole Spencer,59144,Production Technician I,MA,12-08-1979 00:00,M,Single,US Citizen,11-07-2011 00:00,23-09-2016 00:00,Terminated for Cause,Production,LinkedIn,Needs Improvement,2,3
+10070,DeGweck  James,55722,Production Technician I,MA,31-10-1977 00:00,M,Married,US Citizen,16-05-2011 00:00,08-06-2016 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,5,4
+10100,Demita Carla,58275,Production Technician II,MA,25-02-1951 00:00,F,Separated,US Citizen,04-04-2011 00:00,04-11-2015 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,4.62,5
+10064,Eaton Marianne,60070,Production Technician I,MA,05-09-1991 00:00,F,Married,US Citizen,04-04-2011 00:00,06-06-2017 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,5,3
+10280,Estremera Miguel,60340,Production Technician I,MA,02-09-1983 00:00,M,Single,US Citizen,02-04-2012 00:00,27-09-2018 00:00,Terminated for Cause,Production,Google Search,Needs Improvement,5,4
+10296,Evensen April,59124,Production Technician I,MA,06-05-1989 00:00,F,Single,US Citizen,17-02-2014 00:00,25-02-2018 00:00,Terminated for Cause,Production,Google Search,Needs Improvement,2.3,3
+10290,Exantus Susan,99280,Software Engineer,MA,15-05-1987 00:00,F,Married,US Citizen,02-05-2011 00:00,05-06-2013 00:00,Terminated for Cause,Software Engineering,Indeed,Needs Improvement,2.1,5
+10189,Ferguson Susan,57748,Production Technician I,MA,14-04-1955 00:00,F,Married,US Citizen,07-11-2011 00:00,17-05-2016 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,3.13,3
+10093,Fitzpatrick Michael  J,72609,Production Technician II,MA,01-10-1981 00:00,M,Single,US Citizen,16-05-2011 00:00,24-06-2013 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,4.76,5
+10163,Foreman Tanya,55965,Production Technician II,MA,08-11-1983 00:00,F,Married,US Citizen,04-04-2011 00:00,09-01-2013 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,3.66,3
+10305,Forrest Alex,70187,Area Sales Manager,MA,07-07-1975 00:00,M,Married,US Citizen,29-09-2014 00:00,19-08-2018 00:00,Terminated for Cause,Sales,Employee Referral,PIP,2,5
+10122,Gerke Melisa,51505,Production Technician I,MA,15-05-1970 00:00,F,Divorced,US Citizen,07-11-2011 00:00,15-11-2016 00:00,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4.24,4
+10142,Gill Whitney,59370,Area Sales Manager,OH,10-07-1971 00:00,F,Widowed,US Citizen,07-07-2014 00:00,05-09-2015 00:00,Terminated for Cause,Sales,CareerBuilder,Fully Meets,3.97,4
+10283,Gilles Alex,54933,Production Technician I,MA,09-08-1974 00:00,M,Married,US Citizen,02-04-2012 00:00,25-06-2015 00:00,Voluntarily Terminated,Production,Diversity Job Fair,Needs Improvement,3.97,4
+10246,Goble Taisha,114800,Database Administrator,MA,23-10-1971 00:00,F,Single,US Citizen,16-02-2015 00:00,15-03-2015 00:00,Terminated for Cause,IT/IS,Indeed,Fully Meets,4.6,4
+10300,Gonzalez Juan,68898,Production Technician II,MA,12-10-1964 00:00,M,Married,US Citizen,26-04-2010 00:00,30-05-2011 00:00,Voluntarily Terminated,Production,Diversity Job Fair,PIP,3,3
+10059,Gross Paula,63813,Production Technician I,MA,21-05-1983 00:00,F,Divorced,US Citizen,21-02-2011 00:00,11-01-2014 00:00,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,5,5
+10109,Guilianno Mike,71707,Area Sales Manager,TN,09-02-1969 00:00,M,Single,US Citizen,07-03-2012 00:00,31-10-2014 00:00,Voluntarily Terminated,Sales,LinkedIn,Fully Meets,4.5,5
+10097,Harrington Christie,52177,Production Technician I,MA,18-08-1952 00:00,F,Single,US Citizen,09-01-2012 00:00,15-12-2015 00:00,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,4.64,4
+10075,Hendrickson Trina,68099,Production Technician II,MA,27-08-1972 00:00,F,Single,US Citizen,10-01-2011 00:00,18-06-2013 00:00,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,5,3
+10195,Homberger Adrienne  J,63478,Production Technician II,MA,16-02-1984 00:00,F,Married,Non-Citizen,15-08-2011 00:00,07-04-2012 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,3.03,5
+10182,Howard Estelle,49920,Administrative Assistant,MA,16-09-1985 00:00,F,Married,US Citizen,16-02-2015 00:00,15-04-2015 00:00,Terminated for Cause,Admin Offices,Indeed,Fully Meets,3.24,3
+10160,Huynh Ming,68182,Production Technician II,MA,22-09-1976 00:00,F,Divorced,US Citizen,21-02-2011 00:00,01-04-2013 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,3.72,3
+10289,Immediato Walter,83082,Production Manager,MA,15-11-1976 00:00,M,Married,US Citizen,21-02-2011 00:00,24-09-2012 00:00,Voluntarily Terminated,Production,Indeed,Needs Improvement,2.34,2
+10034,Johnson George,46837,Production Technician I,MA,19-08-1959 00:00,M,Married,US Citizen,07-11-2011 00:00,29-04-2018 00:00,Voluntarily Terminated,Production,CareerBuilder,Exceeds,4.7,4
+10138,Jung Judy,61154,Production Technician I,MA,17-04-1986 00:00,F,Married,US Citizen,10-01-2011 00:00,01-04-2016 00:00,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,4,4
+10244,Kampew Donysha,68999,Sales Manager,PA,11-11-1989 00:00,F,Single,US Citizen,07-11-2011 00:00,24-04-2014 00:00,Voluntarily Terminated,Sales,Google Search,Fully Meets,4.5,5
+10166,Kinsella Kathleen,54005,Production Technician I,MA,08-12-1973 00:00,F,Married,US Citizen,26-09-2011 00:00,04-06-2015 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,3.6,5
+10170,Kirill Alexandra,45433,Production Technician I,MA,08-10-1970 00:00,F,Married,US Citizen,26-09-2011 00:00,09-01-2014 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,3.49,4
+10092,Landa Hans,82758,Production Manager,MA,01-07-1972 00:00,M,Married,US Citizen,10-01-2011 00:00,12-12-2015 00:00,Terminated for Cause,Production,Employee Referral,Fully Meets,4.78,4
+10106,Langford Lindsey,66074,Production Technician II,MA,25-07-1979 00:00,F,Divorced,US Citizen,07-01-2013 00:00,31-03-2014 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,4.52,3
+10249,Latif Mohammed,61962,Production Technician II,MA,09-05-1984 00:00,M,Married,US Citizen,02-04-2012 00:00,15-04-2013 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,4.9,3
+10087,Leach Dallas,63676,Production Technician I,MA,17-01-1979 00:00,F,Single,US Citizen,26-09-2011 00:00,19-08-2018 00:00,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,4.88,3
+10186,Linares Marilyn,52624,Production Technician I,MA,26-03-1981 00:00,F,Married,US Citizen,05-07-2011 00:00,26-09-2018 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,3.18,4
+10096,Lundy Susan,67237,Production Technician II,MA,26-12-1976 00:00,F,Widowed,US Citizen,08-07-2013 00:00,15-09-2016 00:00,Voluntarily Terminated,Production,LinkedIn,Fully Meets,4.65,4
+10004,Lynch Lindsay,47434,Production Technician I,MA,14-02-1973 00:00,F,Single,US Citizen,07-11-2011 00:00,14-11-2015 00:00,Voluntarily Terminated,Production,Diversity Job Fair,Exceeds,5,4
+10191,MacLennan Samuel,52788,Production Technician I,MA,09-11-1972 00:00,M,Widowed,US Citizen,24-09-2012 00:00,26-09-2017 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,3.08,4
+10073,Mancuso Karen,68407,Production Technician II,MA,10-12-1986 00:00,F,Married,US Citizen,05-07-2011 00:00,19-08-2012 00:00,Voluntarily Terminated,Production,LinkedIn,Fully Meets,5,4
+10128,Meads Elizabeth,62659,Production Technician I,MA,30-05-1968 00:00,F,Single,US Citizen,02-04-2012 00:00,11-11-2016 00:00,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4.18,4
+10298,Miller Ned,55800,Production Technician II,MA,29-06-1985 00:00,M,Single,US Citizen,15-08-2011 00:00,04-09-2014 00:00,Voluntarily Terminated,Production,LinkedIn,PIP,3,2
+10215,Ndzi Colombui,50470,Production Technician I,MA,02-05-1989 00:00,M,Single,US Citizen,26-09-2011 00:00,04-04-2014 00:00,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4.3,3
+10185,Ndzi Horia,46664,Production Technician I,MA,28-03-1983 00:00,M,Married,US Citizen,01-04-2013 00:00,25-05-2016 00:00,Voluntarily Terminated,Production,Employee Referral,Fully Meets,3.18,3
+10303,O'hare Lynn,52674,Production Technician I,MA,30-09-1980 00:00,F,Single,US Citizen,31-03-2014 00:00,01-05-2018 00:00,Terminated for Cause,Production,LinkedIn,PIP,2.33,2
+10078,Oliver Brooke,71966,Production Technician II,MA,11-02-1952 00:00,F,Married,US Citizen,14-05-2012 00:00,19-08-2013 00:00,Voluntarily Terminated,Production,LinkedIn,Fully Meets,5,3
+10148,Panjwani Nina,63515,Production Technician I,MA,01-05-1979 00:00,F,Married,US Citizen,07-02-2011 00:00,12-01-2014 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,3.89,4
+10005,Patronick Lucas,108987,Software Engineer,MA,20-02-1979 00:00,M,Single,US Citizen,07-11-2011 00:00,07-09-2015 00:00,Voluntarily Terminated,Software Engineering,Diversity Job Fair,Exceeds,5,5
+10259,Pearson Randall,93093,Data Analyst,MA,05-09-1984 00:00,M,Married,US Citizen,01-12-2014 00:00,01-05-2016 00:00,Voluntarily Terminated,IT/IS,Employee Referral,Fully Meets,4.7,4
+10286,Smith Martin,53564,Production Technician I,MA,17-03-1988 00:00,M,Single,US Citizen,10-01-2011 00:00,28-12-2017 00:00,Voluntarily Terminated,Production,Google Search,Needs Improvement,3.54,5
+10297,Pelletier Ermine,60270,Production Technician II,MA,18-07-1989 00:00,F,Married,US Citizen,05-07-2011 00:00,15-09-2015 00:00,Voluntarily Terminated,Production,CareerBuilder,Needs Improvement,2.4,5
+10171,Perry Shakira,45998,Production Technician I,MA,20-07-1986 00:00,F,Single,US Citizen,16-05-2011 00:00,25-10-2015 00:00,Voluntarily Terminated,Production,LinkedIn,Fully Meets,3.45,4
+10032,Peters Lauren,57954,Production Technician II,MA,17-08-1986 00:00,F,Married,US Citizen,16-05-2011 00:00,04-02-2013 00:00,Voluntarily Terminated,Production,Indeed,Exceeds,4.2,5
+10130,Peterson Ebonee,74669,Production Manager,MA,09-05-1977 00:00,F,Married,US Citizen,25-10-2010 00:00,18-05-2016 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,4.16,5
+10050,Pham Hong,64724,Production Technician I,MA,06-03-1988 00:00,M,Married,US Citizen,05-07-2011 00:00,30-11-2012 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,5,3
+10187,Power Morissa,46799,Production Technician I,MA,15-10-1984 00:00,F,Divorced,Eligible NonCitizen,16-05-2011 00:00,04-06-2018 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,3.17,4
+10262,Purinton Janine,46430,Production Technician I,MA,22-09-1970 00:00,F,Divorced,US Citizen,24-09-2012 00:00,18-06-2013 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,4.5,5
+10131,Quinn Sean,83363,Software Engineer,MA,06-11-1984 00:00,M,Married,Eligible NonCitizen,21-02-2011 00:00,15-08-2015 00:00,Voluntarily Terminated,Software Engineering,Diversity Job Fair,Fully Meets,4.15,4
+10152,Rarrick Quinn,61729,Production Technician I,MA,31-12-1984 00:00,M,Divorced,US Citizen,26-09-2011 00:00,07-04-2018 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,3.8,5
+10058,Rhoads Thomas,45115,Production Technician I,MA,22-07-1982 00:00,M,Divorced,US Citizen,16-05-2011 00:00,15-01-2016 00:00,Voluntarily Terminated,Production,LinkedIn,Fully Meets,5,4
+10230,Roberson May,64971,Production Technician II,MA,05-09-1981 00:00,F,Divorced,Eligible NonCitizen,26-09-2011 00:00,22-10-2011 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,4.5,4
+10224,Robertson Peter,55578,Production Technician II,MA,03-07-1972 00:00,M,Married,US Citizen,05-07-2011 00:00,08-02-2012 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,4.2,5
+10047,Robinson Alain,50428,Production Technician I,MA,07-01-1974 00:00,M,Married,US Citizen,10-01-2011 00:00,26-01-2016 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,5,3
+10285,Robinson Cherly,61422,Production Technician I,MA,07-01-1985 00:00,F,Married,US Citizen,10-01-2011 00:00,17-05-2016 00:00,Terminated for Cause,Production,Indeed,Needs Improvement,3.6,3
+10149,Roehrich Bianca,120000,Principal Data Architect,MA,27-05-1973 00:00,F,Single,US Citizen,05-01-2015 00:00,10-11-2018 00:00,Voluntarily Terminated,IT/IS,LinkedIn,Fully Meets,3.88,3
+10065,Rossetti Bruno,53180,Production Technician I,MA,18-03-1987 00:00,M,Single,US Citizen,04-04-2011 00:00,13-08-2018 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,5,5
+10222,Ruiz Ricardo,148999,IT Manager - DB,MA,04-01-1964 00:00,M,Divorced,US Citizen,09-01-2012 00:00,04-11-2015 00:00,Voluntarily Terminated,IT/IS,Diversity Job Fair,Fully Meets,4.3,4
+10260,Sadki Nore,46428,Production Technician I,MA,21-12-1974 00:00,M,Single,US Citizen,05-01-2009 00:00,30-07-2018 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,4.6,5
+10229,Salter Jason,88527,Data Analyst,MA,17-12-1987 00:00,M,Divorced,US Citizen,05-01-2015 00:00,31-10-2015 00:00,Voluntarily Terminated,IT/IS,LinkedIn,Fully Meets,4.2,3
+10095,Sloan Constance,63878,Production Technician II,MA,25-11-1987 00:00,F,Single,US Citizen,26-10-2009 00:00,08-04-2015 00:00,Voluntarily Terminated,Production,CareerBuilder,Fully Meets,4.68,4
+10153,Smith Leigh Ann,55000,Administrative Assistant,MA,14-06-1987 00:00,F,Married,US Citizen,26-09-2011 00:00,25-09-2013 00:00,Voluntarily Terminated,Admin Offices,Diversity Job Fair,Fully Meets,3.8,4
+10030,Squatrito Kristen,62425,Production Technician I,MA,26-03-1973 00:00,F,Divorced,US Citizen,13-05-2013 00:00,29-06-2015 00:00,Voluntarily Terminated,Production,LinkedIn,Exceeds,4.1,4
+10221,Tavares Desiree,60754,Production Technician I,MA,03-04-1975 00:00,F,Married,Non-Citizen,27-04-2009 00:00,01-04-2013 00:00,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4.5,5
+10146,Tejeda Lenora,72202,Production Technician II,MA,24-05-1953 00:00,F,Married,US Citizen,16-05-2011 00:00,08-07-2017 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,3.93,3
+10141,Theamstern Sophia,48413,Production Technician I,MA,09-05-1965 00:00,F,Single,US Citizen,05-07-2011 00:00,05-09-2016 00:00,Voluntarily Terminated,Production,Indeed,Fully Meets,3.98,4
+10268,Thibaud Kenneth,67176,Production Technician II,MA,16-09-1975 00:00,M,Widowed,US Citizen,25-06-2007 00:00,30-08-2010 00:00,Voluntarily Terminated,Production,Other,Fully Meets,4.1,4
+10044,Tredinnick Neville,75281,Network Engineer,MA,05-05-1988 00:00,M,Married,US Citizen,05-01-2015 00:00,12-02-2016 00:00,Voluntarily Terminated,IT/IS,CareerBuilder,Fully Meets,5,3
+10102,True Edward,100416,Software Engineer,MA,14-06-1983 00:00,M,Single,Non-Citizen,18-02-2013 00:00,15-04-2018 00:00,Voluntarily Terminated,Software Engineering,Diversity Job Fair,Fully Meets,4.6,3
+10270,Trzeciak Cybil,74813,Production Technician II,MA,15-03-1985 00:00,F,Single,US Citizen,10-01-2011 00:00,02-07-2014 00:00,Voluntarily Terminated,Production,LinkedIn,Fully Meets,4.4,3
+10014,Veera Abdellah,58523,Production Technician I,MA,31-01-1987 00:00,M,Divorced,US Citizen,13-08-2012 00:00,05-02-2016 00:00,Voluntarily Terminated,Production,LinkedIn,Exceeds,4.5,5
+10118,Voldemort Lord,113999,Database Administrator,MA,07-08-1986 00:00,M,Married,US Citizen,16-02-2015 00:00,22-02-2017 00:00,Terminated for Cause,IT/IS,Employee Referral,Fully Meets,4.33,3
+10022,Volk Colleen,49773,Production Technician I,MA,03-06-1986 00:00,F,Married,US Citizen,26-09-2011 00:00,08-02-2016 00:00,Terminated for Cause,Production,Google Search,Exceeds,4.3,5
+10274,Wallace Courtney  E,80512,Production Manager,MA,14-11-1955 00:00,F,Married,US Citizen,26-09-2011 00:00,02-01-2012 00:00,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4.5,3
+10293,Wallace Theresa,50274,Production Technician I,MA,02-08-1980 00:00,F,Single,US Citizen,13-08-2012 00:00,01-09-2015 00:00,Voluntarily Terminated,Production,CareerBuilder,Needs Improvement,2.5,3
+10072,Whittier Scott,58371,Production Technician I,MA,24-05-1987 00:00,M,Single,US Citizen,10-01-2011 00:00,15-05-2014 00:00,Voluntarily Terminated,Production,LinkedIn,Fully Meets,5,5
+10048,Wilber Barry,55140,Production Technician I,MA,09-09-1965 00:00,M,Married,Eligible NonCitizen,16-05-2011 00:00,07-09-2015 00:00,Voluntarily Terminated,Production,Website,Fully Meets,5,3
+10204,Wilkes Annie,58062,Production Technician I,MA,30-07-1983 00:00,F,Divorced,US Citizen,10-01-2011 00:00,14-05-2012 00:00,Voluntarily Terminated,Production,Google Search,Fully Meets,3.6,5
+10264,Williams Jacquelyn,59728,Production Technician I,MA,02-10-1969 00:00,F,Single,US Citizen,09-01-2012 00:00,27-06-2015 00:00,Voluntarily Terminated,Production,Diversity Job Fair,Fully Meets,4.3,4
+10033,Winthrop Jordan,70507,Production Technician II,MA,07-11-1958 00:00,M,Single,US Citizen,07-01-2013 00:00,21-02-2016 00:00,Voluntarily Terminated,Production,LinkedIn,Exceeds,5,3
+10301,Ybarra Catherine,48513,Production Technician I,MA,04-05-1982 00:00,F,Single,US Citizen,02-09-2008 00:00,29-09-2015 00:00,Voluntarily Terminated,Production,Google Search,PIP,3.2,2
